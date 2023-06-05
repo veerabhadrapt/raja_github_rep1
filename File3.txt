@@ -1,1 +1,2 @@
 File3
+new line in file3
